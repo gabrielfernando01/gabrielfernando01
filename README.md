@@ -7,11 +7,22 @@
 [![Linkedin: gabrielrosas](https://img.shields.io/badge/-gabrielrosaszepeda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rosas-zepeda/)](https://www.linkedin.com/in/gabriel-rosas-zepeda/)
 [![GitHub GabrielFernando](https://img.shields.io/github/followers/gabrielfernando?label=follow&style=social)](https://github.com/gabrielfernando01)
 
+### A little more about me...
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```javascript
+const gabriel = {
+  pronouns: "he" | "his",
+  code: [R, Python, Scala, SQL],
+  tools: [Rstudio, Anaconda, Jupyter-Notebook],
+  framework: [Apache Spark],
+  operative_systems: ["Windows", "GNU/Linux"],
+}
+```
+so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@GabrielFernando](https://github.com/gabrielfernando01)
 
 <!---
 gabrielfernando01/gabrielfernando01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
