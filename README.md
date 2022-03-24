@@ -11,7 +11,7 @@
 
 ```javascript
 const gabriel = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [R, Python, Scala, SQL],
   tools: [Rstudio, Anaconda, Jupyter-Notebook],
   framework: [Apache Spark],
