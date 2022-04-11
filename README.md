@@ -5,7 +5,7 @@
 
 [![Twitter: GabrielRosas](https://img.shields.io/twitter/follow/girsanov?style=social)](https://twitter.com/girsanov)
 [![Linkedin: gabrielrosas](https://img.shields.io/badge/-gabrielrosaszepeda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rosas-zepeda/)](https://www.linkedin.com/in/gabriel-rosas-zepeda/)
-[![GitHub GabrielFernando](https://img.shields.io/github/followers/gabrielfernando?label=follow&style=social)](https://github.com/gabrielfernando01)
+[![GitHub GabrielFernando](https://img.shields.io/github/followers/gabrielfernando01?label=follow&style=social)](https://github.com/gabrielfernando01)
 
 ### A little more about me...
 
