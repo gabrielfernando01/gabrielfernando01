@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gabriel Rosas! <img src="https://media3.giphy.com/media/rUP2NQHRueF4CvLDwa/giphy.gif?cid=790b7611a2c7741ded1ec41063ce822e8898cafed3ceb9ae&rid=giphy.gif&ct=s" width="50"> </h2>
-<img align='right' src="https://media3.giphy.com/media/eDvd0uaPcxLH5x0MJ0/giphy.gif?cid=790b761169ae9c12d4317803e658501d66c7a5cc54291bdf&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://media4.giphy.com/media/2Xh8xaZWHHaAMPiwLc/200w.webp" width="230">
 <p><em>Actuary at <a href="https://www.unam.mx/">UNAM</a></br>Data Scientist at <a href="https://bsystems.com.mx/nosotros.html">B-Systems México
 </em></p>
 
