@@ -12,10 +12,10 @@
 ```javascript
 const gabriel = {
   pronouns: "he" | "him",
-  code: [R, Python, Scala, SQL],
-  tools: [Rstudio, Anaconda, Jupyter-Notebook],
-  framework: [Apache Spark],
-  operative_systems: ["GNU/Linux"],
+  code: [R, Python, Scala, SQL, Java],
+  tools: [Rstudio, Anaconda, Apache Netbeans],
+  framework: [Flask, Apache Spark],
+  operative_systems: ["GNU/Linux", UNIX],
 }
 ```
 so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
