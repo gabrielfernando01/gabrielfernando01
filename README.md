@@ -12,8 +12,8 @@
 ```javascript
 const gabriel = {
   pronouns: "he" | "him",
-  code: [R, Python, Scala, SQL, Java],
-  tools: [Rstudio, Anaconda, Apache Netbeans],
+  code: [R, Python, SQL, Java, Scala],
+  IDE: [Rstudio, Anaconda, Intellij IDEA],
   framework: [Flask, Apache Spark],
   operative_systems: ["GNU/Linux", UNIX],
 }
