@@ -3,7 +3,7 @@
 <p><em>Actuary at <a href="https://www.unam.mx/">UNAM</a></br>Data Scientist at <a href="https://bsystems.com.mx/nosotros.html">B-Systems México
 </em></p>
 
-[![Twitter: GabrielRosas](https://img.shields.io/twitter/follow/girsanov?style=social)](https://twitter.com/girsanov)
+[![X: GabrielRosas](https://img.shields.io/twitter/follow/girsanov?style=social)](https://x.com/girsanov)
 [![Linkedin: gabrielrosas](https://img.shields.io/badge/-gabrielrosaszepeda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-rosas-zepeda/)](https://www.linkedin.com/in/gabriel-rosas-zepeda/)
 [![GitHub GabrielFernando](https://img.shields.io/github/followers/gabrielfernando01?label=follow&style=social)](https://github.com/gabrielfernando01)
 
@@ -11,11 +11,10 @@
 
 ```javascript
 const gabriel = {
-  pronouns: "he" | "him",
-  code: [R, Python, SQL, Java, Scala],
-  IDE: [Rstudio, Anaconda, Intellij IDEA],
-  framework: [Flask, Apache Spark],
-  operative_systems: ["GNU/Linux", UNIX],
+  code: [Java ☕ | Scala 🟥 | PostgreSQL 🐘],
+  IDE: [Intellij IDEA 🟧 | Jupyter Notebook 🪐],
+  framework: [Apache Spark 💥 | Apache Flink 🐿️],
+  DevOps: [Git | Jenkins 🤵 | GNU/Linux 🐃🐧]
 }
 ```
 so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
