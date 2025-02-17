@@ -1,6 +1,6 @@
 <h2> Hi, I'm Gabriel Rosas! <img src="https://media1.giphy.com/media/JcFUHp7b9mnj5a01AN/200w.webp?cid=ecf05e47wq9bjmtxf7kaq00768ag1elw2rooyvnm8wktaivn&rid=200w.webp&ct=g" width="50"> </h2>
 <img align='right' src="https://media4.giphy.com/media/2Xh8xaZWHHaAMPiwLc/200w.webp" width="230">
-<p><em>Actuary at <a href="https://www.unam.mx/">UNAM</a></br>Data Scientist at <a href="https://bsystems.com.mx/nosotros.html">B-Systems México
+<p><em>Actuary at <a href="https://www.unam.mx/">UNAM</a></br>Scala Developer at <a href="https://www.nttdata.com/global/en/">NTT Data
 </em></p>
 
 [![X: GabrielRosas](https://img.shields.io/twitter/follow/girsanov?style=social)](https://x.com/girsanov)
@@ -10,7 +10,7 @@
 ### A little more about me...
 
 ```javascript
-const gabriel = {
+gabriel = {
   code: [Java ☕ | Scala 🟥 | PostgreSQL 🐘],
   IDE: [Intellij IDEA 🟧 | Jupyter Notebook 🪐],
   framework: [Apache Spark 💥 | Apache Flink 🐿️],
