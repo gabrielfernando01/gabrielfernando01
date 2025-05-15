@@ -9,15 +9,18 @@
 
 ### A little more about me...
 
-```
-gabriel = {
-  code: [Java ☕ | Scala 🟥 | PostgreSQL 🐘],
-  IDE: [Intellij IDEA 🟧 | Jupyter Notebook 🪐],
-  framework: [Apache Spark ⭐ | Apache Flink 🐿️],
-  DevOps: [Git | Jenkins 🤵 | GNU/Linux 🐃🐧]
+```json
+{
+	"gabriel" = {
+	  "code": ["Java ☕ ", "Scala 🟥", "PostgreSQL 🐘"],
+	  "IDE": ["Intellij IDEA 🟧", "Jupyter Notebook 🪐"],
+	  "framework": ["Apache Spark ⭐", "Apache Flink 🐿️"],
+	  "DevOps": ["Git", "Jenkins 🤵", "GNU/Linux 🐧"]
+	}
 }
 ```
-so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+so if you want to say <b>hi, I'll be happy to meet you more!</b> 😎</em>
 
 ---
 
