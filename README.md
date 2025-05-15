@@ -10,13 +10,11 @@
 ### A little more about me...
 
 ```json
-{
-	"gabriel": {
-	  "code": ["Java ☕ ", "Scala 🟥", "PostgreSQL 🐘"],
-	  "IDE": ["Intellij IDEA 🟧", "Jupyter Notebook 🪐"],
-	  "framework": ["Apache Spark ⭐", "Apache Flink 🐿️"],
-	  "DevOps": ["Git", "Jenkins 🤵", "GNU/Linux 🐧"]
-	}
+"gabriel": {
+	"code": ["Java ☕ ", "Scala 🟥", "PostgreSQL 🐘"],
+	"IDE": ["Intellij IDEA 🟧", "Jupyter Notebook 🪐"],
+	"framework": ["Apache Spark ⭐", "Apache Flink 🐿️"],
+	"DevOps": ["Git", "Jenkins 🤵", "GNU/Linux 🐧"]
 }
 ```
 
