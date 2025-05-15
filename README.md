@@ -11,7 +11,7 @@
 
 ```json
 {
-	"gabriel" = {
+	"gabriel": {
 	  "code": ["Java ☕ ", "Scala 🟥", "PostgreSQL 🐘"],
 	  "IDE": ["Intellij IDEA 🟧", "Jupyter Notebook 🪐"],
 	  "framework": ["Apache Spark ⭐", "Apache Flink 🐿️"],
