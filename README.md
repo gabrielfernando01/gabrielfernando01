@@ -1,21 +1,17 @@
 <!-- ============================================================
-     GABRIEL FERNANDO — GitHub Profile README
-     Actuario · Data Scientist · ML Engineer
+     GABRIEL FERNANDO ROSAS ZEPEDA — GitHub Profile README
+     Actuario · ML Engineer · Investigador
      ============================================================ -->
 
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d2137,100:0a3d62&height=200&section=header&text=Gabriel%20Fernando&fontSize=52&fontColor=e0f4ff&fontAlignY=38&desc=Actuario%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descColor=4fc3f7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1a,40:0a1628,100:0d2137&height=210&section=header&text=Gabriel%20Fernando&fontSize=54&fontColor=e8f4fd&fontAlignY=38&desc=Actuario%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Insurance%20Intelligence&descAlignY=60&descColor=4db8ff&animation=fadeIn" />
 
 </div>
 
----
-
-<!-- Typing SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=false&width=700&lines=ML+aplicado+a+Reservas+Actuariales;Data+Science+%7C+Deep+Learning+%7C+Actuaría;Insurance+Intelligence+%7C+Agentic+AI+Era)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=4DB8FF&center=true&vCenter=true&width=720&lines=Interpretable+ML+for+Technical+Reserves+%7C+CUSF;Actuarial+Science+%2B+Machine+Learning+Research;Hybrid+Architecture%3A+Where+Actuarial+Meets+AI;VaR+99.5%25+%E2%80%A2+IBNR+%E2%80%A2+BEL+%E2%80%A2+Solvency)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,43 +19,40 @@
 
 <br/>
 
-<!-- About section with styled HTML -->
 <table>
 <tr>
-<td width="55%">
+<td width="52%" valign="top">
 
 ## `$ whoami`
 
 ```yaml
-nombre       : Gabriel Fernando
-rol          : Actuario · ML Engineer
-dominio      : Ciencias Actuariales & Data Science
-enfoque_2026 : Machine Learning aplicado a seguros
-contexto     : Reservas técnicas · Modelos predictivos
-              Valuación de riesgos · Solvencia II
-os           : Linux
-paradigma    : Agentic AI era
+name         : Gabriel Fernando Rosas Zepeda
+domain       : Actuarial Science · Insurance Risk
+focus        : Interpretable ML for Technical Reserves
+institution  : Facultad de Ciencias, UNAM
+framework    : CUSF — CNSF México
+stack        : Python · C++ · Java · MATLAB · Spark
+db           : PostgreSQL
+os           : Debian 12 Bookworm / Linux
+paradigm     : Agentic AI Era · 2026
+experience   : Aseguradoras · Reservas · Solvencia
 ```
 
 </td>
-<td width="45%">
+<td width="48%" valign="top">
 
-<div align="center">
-
-<!-- Contribution snake animation (if enabled on repo) -->
 ```
-  ╔══════════════════════════╗
-  ║   EXPERIENCIA EN         ║
-  ║   ASEGURADORAS           ║
-  ║                          ║
-  ║   ▸ Reservas técnicas    ║
-  ║   ▸ Valuación de riesgos ║
-  ║   ▸ Modelos estocásticos ║
-  ║   ▸ Solvencia & capital  ║
-  ╚══════════════════════════╝
+╔══════════════════════════════════╗
+║   DOMINIO ACTUARIAL              ║
+╠══════════════════════════════════╣
+║  ▸ Reservas Técnicas (BEL + MR)  ║
+║  ▸ IBNR · Chain Ladder · Mack    ║
+║  ▸ RCS · VaR 99.5% · Solvencia   ║
+║  ▸ CUSF · Cap. 6.9 · CNSF        ║
+║  ▸ P&L Attribution               ║
+║  ▸ Modelos Internos regulatorios  ║
+╚══════════════════════════════════╝
 ```
-
-</div>
 
 </td>
 </tr>
@@ -67,30 +60,80 @@ paradigma    : Agentic AI era
 
 ---
 
-## 🔬 Proyecto Principal — Servicio Social Actuarial
+## 🔬 Main Research — ML for Insurance
 
 <div align="center">
 
-<!-- Badge destacado del proyecto principal -->
-[![Proyecto](https://img.shields.io/badge/🎯_PROYECTO_CENTRAL-ML_Aplicado_a_Reservas_Actuariales-0a3d62?style=for-the-badge&labelColor=0d2137&color=1565c0)](https://github.com/gabrielfernando)
+[![ML-for-Insurance](https://img.shields.io/badge/▶_MAIN_PROJECT-ML_for_Insurance-0a1628?style=for-the-badge&labelColor=0d2137&color=1565c0)](https://github.com/gabrielfernando01/ML-for-Insurance)
+&nbsp;
+[![Status](https://img.shields.io/badge/STATUS-In_Progress_·_2026-0a1628?style=for-the-badge&labelColor=0d2137&color=1b5e20)](https://github.com/gabrielfernando01/ML-for-Insurance)
+&nbsp;
+[![CUSF](https://img.shields.io/badge/MARCO-CUSF_·_CNSF_México-0a1628?style=for-the-badge&labelColor=0d2137&color=4a148c)](https://github.com/gabrielfernando01/ML-for-Insurance)
 
 </div>
 
-> **Aplicación de Machine Learning para la estimación y optimización de reservas técnicas en seguros.**  
-> Combinando metodología actuarial clásica con modelos modernos de ML para mejorar la precisión  
-> en la valuación de pasivos aseguradores — el corazón del negocio de cualquier aseguradora.
+<br/>
+
+> **Investigación:** ¿Puede el Machine Learning interpretable contrastar y mejorar el cálculo de
+> Reservas Técnicas y el RCS bajo los requisitos normativos de la CUSF?
+> La hipótesis central: los modelos de caja negra pura son inviables bajo regulación.
+> La única ruta viable es una **arquitectura híbrida** donde el componente ML actúa como
+> estimador dentro de un armazón actuarial explícito, auditable y regulatoriamente aprobable.
+
+<br/>
+
+### Pipeline de Investigación
 
 ```
-PIPELINE DEL PROYECTO
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Datos históricos    →   Feature Engineering   →   Modelos ML
-  de siniestros           actuarial                 (XGBoost, RF,
-                                                     Redes Neuronales)
-       ↓                        ↓                        ↓
-  Triángulos de           Variables de              Estimación de
-  desarrollo              exposición                IBNR / Reservas
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                        ML-for-Insurance · Research Pipeline
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ┌─────────────────┐     ┌──────────────────┐     ┌───────────────────┐
+  │  Datos CNSF     │────▶│  Capa Actuarial  │────▶│  Capa ML          │
+  │                 │     │  (Baseline)      │     │  (Interpretable)  │
+  │  Triángulos de  │     │                  │     │                   │
+  │  desarrollo por │     │  Chain Ladder    │     │  GAMs · pygam     │
+  │  ramo de seguro │     │  Bornhuetter-F.  │     │  Decision Trees   │
+  │                 │     │  Cape Cod        │     │  depth ≤ 4        │
+  │  Vida · A&E     │     │  Mack (IC + var) │     │  Lasso / Ridge    │
+  │  Automóviles    │     │  Bootstrap IBNR  │     │                   │
+  └─────────────────┘     └──────────────────┘     └────────┬──────────┘
+                                   │                         │
+                                   ▼                         ▼
+                          ┌────────────────────────────────────────────┐
+                          │         Arquitectura Híbrida               │
+                          │                                            │
+                          │  ML estima frecuencia/severidad            │
+                          │        ↓                                   │
+                          │  Chain Ladder proyecta el triángulo        │
+                          │        ↓                                   │
+                          │  Bootstrap genera distribución de pérdidas │
+                          │        ↓                                   │
+                          │  VaR 99.5% — umbral duro CUSF Cap. 6.9    │
+                          └────────────────────┬───────────────────────┘
+                                               │
+                                               ▼
+                                   ┌───────────────────────┐
+                                   │  SHAP · Explicabilidad │
+                                   │  P&L Attribution CUSF  │
+                                   │  13 requisitos Cap 6.9 │
+                                   └───────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Reserva Técnica = BEL (Mejor Estimación) + MR (Margen de Riesgo)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+### Sprints · 6 meses
+
+| Sprint | Objetivo | Estado |
+|--------|----------|--------|
+| **01** | EDA · Triángulos de desarrollo · Selección de ramo | `⏳ En curso` |
+| **02** | Baseline actuarial — 5 métodos CUSF implementados | `📋 Planeado` |
+| **03** | RCS · Fórmula Estándar · VaR 99.5% demostrado | `📋 Planeado` |
+| **04** | ML interpretable vs. métodos actuariales | `📋 Planeado` |
+| **05** | Arquitectura híbrida + SHAP global | `📋 Planeado` |
+| **06** | Back-testing · Cumplimiento CUSF · Memoria técnica | `📋 Planeado` |
 
 ---
 
@@ -98,41 +141,32 @@ PIPELINE DEL PROYECTO
 
 <div align="center">
 
-<!-- Fila 1: Data Science & ML -->
-**Data Science & Machine Learning**
+**Actuarial & Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4fc3f7)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f9844a)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=4fc3f7)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4799e0)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6d00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ef5350)
-
-<br/>
-
-<!-- Fila 2: Big Data & Bases de datos -->
-**Big Data & Bases de Datos**
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=f9844a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4fc3f7)
+![Python](https://img.shields.io/badge/Python-060d1a?style=for-the-badge&logo=python&logoColor=4db8ff)
+![chainladder](https://img.shields.io/badge/chainladder-060d1a?style=for-the-badge&logoColor=4db8ff&label=⬡&color=0d47a1)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-060d1a?style=for-the-badge&logo=scikitlearn&logoColor=f9844a)
+![SHAP](https://img.shields.io/badge/SHAP-060d1a?style=for-the-badge&logoColor=f9844a&label=◈&color=e65100)
+![pygam](https://img.shields.io/badge/pygam_GAMs-060d1a?style=for-the-badge&logoColor=4db8ff&label=∫&color=1565c0)
+![statsmodels](https://img.shields.io/badge/statsmodels-060d1a?style=for-the-badge&logo=scipy&logoColor=4db8ff)
 
 <br/>
 
-<!-- Fila 3: Lenguajes de programación -->
-**Lenguajes**
+**Lenguajes de Programación**
 
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=4fc3f7)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f9844a)
-![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=for-the-badge&logo=mathworks&logoColor=e87c2b)
+![C++](https://img.shields.io/badge/C++-060d1a?style=for-the-badge&logo=cplusplus&logoColor=4db8ff)
+![Java](https://img.shields.io/badge/Java-060d1a?style=for-the-badge&logo=openjdk&logoColor=f9844a)
+![MATLAB](https://img.shields.io/badge/MATLAB-060d1a?style=for-the-badge&logo=mathworks&logoColor=e87c2b)
 
 <br/>
 
-<!-- Fila 4: OS & herramientas -->
-**Entorno & Herramientas**
+**Big Data · Bases de Datos · Entorno**
 
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=fdd835)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ef5350)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f9844a)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-060d1a?style=for-the-badge&logo=apachespark&logoColor=f9844a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-060d1a?style=for-the-badge&logo=postgresql&logoColor=4db8ff)
+![Linux](https://img.shields.io/badge/Debian_Linux-060d1a?style=for-the-badge&logo=debian&logoColor=d32f2f)
+![Jupyter](https://img.shields.io/badge/Jupyter-060d1a?style=for-the-badge&logo=jupyter&logoColor=f9844a)
+![Git](https://img.shields.io/badge/Git-060d1a?style=for-the-badge&logo=git&logoColor=ef5350)
 
 </div>
 
@@ -144,44 +178,44 @@ PIPELINE DEL PROYECTO
 
 <table>
 <tr>
-<td align="center" width="200px">
+<td align="center" width="175px">
 
-**🔢 Actuaría**
+**📐 Actuaría**
 
-Reservas IBNR  
-Tablas de mortalidad  
-Valuación de pasivos  
-Solvencia II
-
-</td>
-<td align="center" width="200px">
-
-**🤖 Machine Learning**
-
-Modelos supervisados  
-Series de tiempo  
-Feature engineering  
-Validación cruzada
+Reservas BEL + MR  
+IBNR · Triángulos  
+Mack · Bootstrap  
+Solvencia · CUSF
 
 </td>
-<td align="center" width="200px">
+<td align="center" width="175px">
 
-**🧠 Deep Learning**
+**🤖 ML Interpretable**
 
-Redes neuronales  
-LSTM para siniestros  
-Autoencoder  
-Inferencia bayesiana
+GAMs · pygam  
+Decision Trees ≤ 4  
+Regularización  
+SHAP global
 
 </td>
-<td align="center" width="200px">
+<td align="center" width="175px">
 
 **📊 Data Science**
 
 EDA actuarial  
-Visualización  
-Estadística avanzada  
-Modelado estocástico
+Series temporales  
+Validación cruzada  
+Visualización
+
+</td>
+<td align="center" width="175px">
+
+**⚖️ Regulatorio**
+
+CUSF · CNSF  
+Cap. 6.9 · 13 req.  
+Modelos Internos  
+VaR 99.5%
 
 </td>
 </tr>
@@ -195,32 +229,32 @@ Modelado estocástico
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielfernando&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=4fc3f7&icon_color=f9844a&text_color=c9d1d9&border_color=21262d&hide_border=false" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfernando&layout=compact&theme=github_dark&bg_color=0d1117&title_color=4fc3f7&text_color=c9d1d9&border_color=21262d" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielfernando01&show_icons=true&theme=github_dark&bg_color=060d1a&title_color=4db8ff&icon_color=f9844a&text_color=c9d1d9&border_color=0d2137" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfernando01&layout=compact&theme=github_dark&bg_color=060d1a&title_color=4db8ff&text_color=c9d1d9&border_color=0d2137" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielfernando&theme=github-dark-blue&background=0d1117&border=21262d&ring=4fc3f7&fire=f9844a&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4fc3f7&sideLabels=4fc3f7&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielfernando01&theme=github-dark-blue&background=060d1a&border=0d2137&ring=4db8ff&fire=f9844a&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4db8ff&sideLabels=4db8ff&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌐 Visión 2026
+## 🌐 Visión · Era Agentic AI
 
 ```
-ERA AGENTIC AI  ──────────────────────────────────────────────────────────
-                                                                          
-  Datos        →   ML / DL     →   Modelos       →   Sistemas           
-  Actuariales      Aplicado        Predictivos       Autónomos           
-                   a Seguros       de Riesgo         de Valuación        
-                                                                          
-  ─────────────────────────────────────────────────────────────────────  
-  "Donde la matemática actuarial se encuentra con la inteligencia        
-   artificial para redefinir la gestión del riesgo asegurador."         
-  ─────────────────────────────────────────────────────────────────────  
+2026 — Insurance Intelligence
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Matemática        ML              Regulación       Sistemas
+  Actuarial    +   Interpretable  + CUSF-compliant = Autónomos
+                                                     de Valuación
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "El riesgo bien modelado no es incertidumbre — es oportunidad."
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
@@ -229,9 +263,13 @@ ERA AGENTIC AI  ─────────────────────�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4fc3f7)](https://linkedin.com/in/gabrielfernando)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f9844a)](mailto:tu@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/gabrielfernando)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060d1a?style=for-the-badge&logo=linkedin&logoColor=4db8ff)](https://www.linkedin.com/feed/)
+&nbsp;
+[![X / Twitter](https://img.shields.io/badge/@girsanov-060d1a?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/girsanov)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-060d1a?style=for-the-badge&logo=gmail&logoColor=f9844a)](mailto:fernando.rozepeda@gmail.com)
+&nbsp;
+[![ML-for-Insurance](https://img.shields.io/badge/Main_Project-060d1a?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/gabrielfernando01/ML-for-Insurance)
 
 </div>
 
@@ -239,8 +277,6 @@ ERA AGENTIC AI  ─────────────────────�
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0a0a1a&height=100&section=footer" />
-
-*"El riesgo bien modelado no es incertidumbre — es oportunidad."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a1628,100:060d1a&height=100&section=footer" />
 
 </div>
