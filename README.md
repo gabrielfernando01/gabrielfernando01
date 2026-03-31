@@ -82,59 +82,6 @@ experience   : Aseguradoras · Reservas · Solvencia
 
 <br/>
 
-### Pipeline de Investigación
-
-```
-                        ML-for-Insurance · Research Pipeline
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  ┌─────────────────┐     ┌──────────────────┐     ┌───────────────────┐
-  │  Datos CNSF     │────▶│  Capa Actuarial  │────▶│  Capa ML          │
-  │                 │     │  (Baseline)      │     │  (Interpretable)  │
-  │  Triángulos de  │     │                  │     │                   │
-  │  desarrollo por │     │  Chain Ladder    │     │  GAMs · pygam     │
-  │  ramo de seguro │     │  Bornhuetter-F.  │     │  Decision Trees   │
-  │                 │     │  Cape Cod        │     │  depth ≤ 4        │
-  │  Vida · A&E     │     │  Mack (IC + var) │     │  Lasso / Ridge    │
-  │  Automóviles    │     │  Bootstrap IBNR  │     │                   │
-  └─────────────────┘     └──────────────────┘     └────────┬──────────┘
-                                   │                         │
-                                   ▼                         ▼
-                          ┌────────────────────────────────────────────┐
-                          │         Arquitectura Híbrida               │
-                          │                                            │
-                          │  ML estima frecuencia/severidad            │
-                          │        ↓                                   │
-                          │  Chain Ladder proyecta el triángulo        │
-                          │        ↓                                   │
-                          │  Bootstrap genera distribución de pérdidas │
-                          │        ↓                                   │
-                          │  VaR 99.5% — umbral duro CUSF Cap. 6.9    │
-                          └────────────────────┬───────────────────────┘
-                                               │
-                                               ▼
-                                   ┌───────────────────────┐
-                                   │  SHAP · Explicabilidad │
-                                   │  P&L Attribution CUSF  │
-                                   │  13 requisitos Cap 6.9 │
-                                   └───────────────────────┘
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Reserva Técnica = BEL (Mejor Estimación) + MR (Margen de Riesgo)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### Sprints · 6 meses
-
-| Sprint | Objetivo | Estado |
-|--------|----------|--------|
-| **01** | EDA · Triángulos de desarrollo · Selección de ramo | `⏳ En curso` |
-| **02** | Baseline actuarial — 5 métodos CUSF implementados | `📋 Planeado` |
-| **03** | RCS · Fórmula Estándar · VaR 99.5% demostrado | `📋 Planeado` |
-| **04** | ML interpretable vs. métodos actuariales | `📋 Planeado` |
-| **05** | Arquitectura híbrida + SHAP global | `📋 Planeado` |
-| **06** | Back-testing · Cumplimiento CUSF · Memoria técnica | `📋 Planeado` |
-
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -263,7 +210,7 @@ VaR 99.5%
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-060d1a?style=for-the-badge&logo=linkedin&logoColor=4db8ff)](https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060d1a?style=for-the-badge&logo=linkedin&logoColor=4db8ff)](https://www.linkedin.com/in/gabriel-rosas-zepeda/)
 &nbsp;
 [![X / Twitter](https://img.shields.io/badge/@girsanov-060d1a?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/girsanov)
 &nbsp;
